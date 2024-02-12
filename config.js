@@ -37,9 +37,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','919362641982']
-global.premium = ['27634090203','919362641982']
-global.botname = 'POLYTHENE'
+global.owner = ['918787651195']
+global.premium = ['918787651195']
+global.botname = 'Botz'
 global.ownername = 'AWMTEA POLYTHENE'
 global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
 global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
